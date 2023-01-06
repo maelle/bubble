@@ -13,3 +13,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/maelle/bubble
+BugReports: https://github.com/maelle/bubble/issues
