@@ -1,0 +1,19 @@
+---
+title: "bubble"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{bubble}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+knitr::include_graphics("badpath.png")
+```
